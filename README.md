@@ -1,6 +1,9 @@
 **Lung Cancer Detection Systems Using RIM Models**
+
 **Authors**
+
 **Prathisha S, Sivasupriya A, Varshini P, Varsha S**
+
 _Department of Computer Science and Business Systems_  
 _Knowledge Institute of Technology, Salem_
 
@@ -15,7 +18,7 @@ This project introduces a **hybrid deep learning framework** for lung cancer det
 
 The ensemble approach combines the predictions from all three models to produce a more reliable diagnosis.
 
-## ⚙️ Methodology
+**Methodology**
 1. **Image Preprocessing**  
    - Normalization  
    - Augmentation  
